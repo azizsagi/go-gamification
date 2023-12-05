@@ -1,2 +1,2 @@
-# go-gamification
-go-gamification
+# Gamification
+ 
